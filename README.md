@@ -85,7 +85,7 @@ Filtered Port
 
     client ---- syn -------> server
     client <--- syn/ack ---- gateway
-``
+```
 #### Mook Connect Scan
 ##### 3-way handshake
 ```
